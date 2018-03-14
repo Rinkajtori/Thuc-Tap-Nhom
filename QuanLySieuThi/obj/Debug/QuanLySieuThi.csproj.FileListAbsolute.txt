@@ -1,0 +1,12 @@
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe.config
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.exe
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\bin\Debug\QuanLySieuThi.pdb
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csprojResolveAssemblyReference.cache
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Form1.resources
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Login.resources
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Properties.Resources.resources
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.csproj.GenerateResource.Cache
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.exe
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.pdb
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.Staff.resources
+c:\users\vuman\onedrive\documents\visual studio 2013\Projects\QuanLySieuThi\QuanLySieuThi\obj\Debug\QuanLySieuThi.QuayHang.resources
